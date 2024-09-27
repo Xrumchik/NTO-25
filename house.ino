@@ -5,7 +5,7 @@
 #include <MGS_FR403.h> //датчик пламени
 #include "MCP3221.h" //вроде датчик звука
 #include <FastLED.h> //светодиодная лента
-#include <HttpClient.h> //http запросы + api
+#include <HttpClient.h> //http запросы + api 
 #include "AsyncUDP.h" //асинхронная отправка udp пакетов
 
 const char* ssid = "TP-Link_4F90"; //сеть wify
